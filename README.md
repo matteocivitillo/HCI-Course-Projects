@@ -1,10 +1,10 @@
-# Human–Computer Interaction – Course Portfolio  
+# Human–Computer Interaction - Course Portfolio  
 This repository contains the three major assignments completed for the Human–Computer Interaction course (EIT Digital Master School).  
 The work covers theoretical foundations, analytical skills, UX research, prototyping, and user-centred evaluation.
 
 ---
 
-## 📘 Assignment 1 — Comparative HCI Evaluation  
+## 📘 Assignment 1 - Comparative HCI Evaluation  
 **Topics:** Context of use, usability, interaction, UX, ISO standards  
 **What I did:**  
 - Analyzed one digital product (Microsoft Teams) and one physical product (an Air Fryer)  
@@ -19,7 +19,7 @@ The work covers theoretical foundations, analytical skills, UX research, prototy
 
 ---
 
-## 📙 Assignment 2 — Mental Models & UI Redesign  
+## 📙 Assignment 2 - Mental Models & UI Redesign  
 **Topics:** Mental models, metaphors, gulfs of execution/evaluation, interface redesign  
 **What I did:**  
 - Studied Gmail’s interaction model using mental models and metaphor theory  
@@ -34,7 +34,7 @@ The work covers theoretical foundations, analytical skills, UX research, prototy
 
 ---
 
-## 📗 Assignment 3 — SmaWat: Child-Centered Smartwatch Design  
+## 📗 Assignment 3 - SmaWat: Child-Centered Smartwatch Design  
 **Topics:** ISO 9241-210, HCD process, prototyping, evaluation, UX for children  
 **What I did:**  
 - Created paper prototypes and mid-high fidelity Figma prototypes  
