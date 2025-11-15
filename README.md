@@ -15,7 +15,7 @@ The work covers theoretical foundations, analytical skills, UX research, prototy
 - Structuring evaluations between digital and physical interfaces  
 - Identifying mismatches between intended and actual user experience  
 
-📄 *PDF available in the folder*
+📄 [Assignment 1 – HCI_1_assignment.pdf](HCI_1_assignment.pdf)
 
 ---
 
@@ -30,7 +30,7 @@ The work covers theoretical foundations, analytical skills, UX research, prototy
 - How to identify usability gaps through normative HCI frameworks  
 - How to propose targeted UI improvements grounded in theory  
 
-📄 *PDF available in the folder*
+📄 [Assignment 2 – HCI_2_assignment.pdf](HCI_2_assignment.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ The work covers theoretical foundations, analytical skills, UX research, prototy
 - Designing interfaces for children with real-world constraints  
 - Combining qualitative and quantitative evaluation methods  
 
-📄 *PDF available in the folder*
+📄 [Assignment 3 – HCI_3_assignment.pdf](HCI_3_assignment.pdf)
 
 ---
 
